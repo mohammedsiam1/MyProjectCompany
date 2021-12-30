@@ -1,0 +1,152 @@
+* {box-sizing: border-box}
+
+/* Add padding to containers */
+.container {
+
+  margin-right:25% ;
+  margin-top: 7%;
+}
+
+
+
+/* Full-width input fields */
+.p-titel{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.email{
+    width: 25%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+
+    border: none;
+    background: #f1f1f1;
+}
+#psw{
+    width: 25%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+
+}
+#psw-repeat{
+    width: 25%;
+    padding: 15px;
+margin: 10px,0px,22px,0px;
+    border: none;
+    background: #f1f1f1;
+
+}
+
+.addresQati5{
+    float: left;
+    margin-top: -240px;
+    margin-left: 20%;
+}
+.addresQati4{
+    float: left;
+    margin-top: -290px;
+    margin-left: 20%;
+}
+.addresQati3{
+    float: left;
+    margin-top: -345px;
+    margin-left: 20%;
+}
+.addresQati2{
+    float: left;
+    margin-top: -400px;
+    margin-left: 20%;
+}
+.addresQati{
+    float: left;
+    margin-top: -620px;
+    margin-left: 20%;
+}
+.addresQati6{
+    float: left;
+    margin-top: -660px;
+    margin-left: 20%;
+}
+.file{
+    float: left;
+    margin-top: -370px;
+    margin-left: 20%;
+}
+.file2{
+    float: left;
+    margin-top: -400px;
+    margin-left: 20%;
+}
+.myimage{
+float: left;
+margin-top: -380px;
+margin-left: 100px;
+}
+.file80{
+    float: left;
+    margin-top: -650px;
+    margin-left: 20%;
+}
+.file4{
+    background-color: rgba(255, 235, 205, 0.349);
+}
+#myImge0{
+    float: left;
+    margin-top: -310px;
+margin-left: 100px;
+}
+#myImge2{
+    float: left;
+    margin-top: -310px;
+margin-left: 100px;
+}
+#myImge3{
+    float: left;
+    margin-top: -310px;
+margin-left: 100px;
+}
+#myImge4{
+    float: left;
+    margin-top: -310px;
+margin-left: 100px;
+}
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #0468aa2d;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  background-color: #06385af6;
+  color: white;
+  padding: 12px 16px;
+  border: none;
+  cursor: pointer;
+width: 15%;
+border-radius: 15px;
+  opacity: 0.9;
+  text-align: center;
+  margin-top: 3%;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+a {
+  color: dodgerblue;
+}
+
+
+
+
+
+/* showemploy*/
+
